@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="1dp">
+
+    <ImageButton
+        android:id="@+id/grid_image"
+        android:layout_width="204dp"
+        android:layout_height="241dp"
+        android:scaleType="centerCrop" />
+
+
+    <TextView
+        android:id="@+id/item_name"
+        android:layout_width="203dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="6dp"
+        android:text="Rose"
+        android:textColor="@color/greenspotify"
+        android:textColorLink="@color/greenspotify"
+        android:textSize="20sp" />
+
+</LinearLayout>

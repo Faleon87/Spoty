@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="gson-2.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Proyecto/Proyect-Globo/Software(Librerias)/gson-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Proyecto/Proyect-Globo/Software(Librerias)/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Proyecto/Proyect-Globo/Software(Librerias)/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Proyecto/Proyect-Globo/Software(Librerias)/javax.servlet-api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Proyecto/Proyect-Globo/Software(Librerias)/junit-3.8.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Android/AndroidCardView/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/AndroidCardView/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/AndroidCardView/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/AppMovies/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/AppMovies/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/AppMovies/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Android/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/2SI/demo/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/BasedeDatos/BasedeDatos/src" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/BasedeDatos/DAODatabase/src" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/SanValero/android/LoginAndroid-29-09-2023/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/SanValero/android/LoginAndroid-29-09-2023/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/SanValero/android/LoginAndroid-29-09-2023/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/Thread/src" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Intellij/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../MyApplication/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../../MyApplication/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../MyApplication/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Proyecto/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../../Proyecto/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Proyecto/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../Spotify/app/src/androidTest/java" />
+      <root url="file://$PROJECT_DIR$/../Spotify/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../Spotify/app/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../.." recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../.." recursive="false" type="SOURCES" />
+  </library>
+</component>
